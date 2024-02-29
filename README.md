@@ -37,30 +37,6 @@ I do all kinds of stuff that has something to do with programming.
 
 <img align="center" src="snake.svg" />
 
-<a href="https://github.com/Rebratic/UE4Injector">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebratic&repo=UE4Injector&theme=dark" />
-</a>
-
-<a href="https://github.com/Rebratic/C0bW3b">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebratic&repo=C0bW3b&theme=dark" />
-</a>
-
-<a href="https://github.com/Rebratic/CSharpGUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebratic&repo=CSharpGUI&theme=dark" />
-</a>
-
-<a href="https://github.com/Rebratic/GHook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebratic&repo=GHook&theme=dark" />
-</a>
-
-<a href="https://github.com/Rebratic/DuckScript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebratic&repo=DuckScript&theme=dark" />
-</a>
-
-<a href="https://github.com/Rebratic/AppOnHijacker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebratic&repo=AppOnHijacker&theme=dark" />
-</a>
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!

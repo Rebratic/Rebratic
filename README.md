@@ -1,4 +1,4 @@
-## Hello, I'm Zebratic 👋
+## Hello, I'm Rebratic 👋
 I do all kinds of stuff that has something to do with programming.
 
 <img src="https://discord.c99.nl/widget/theme-3/1212840512328044674.png">
@@ -14,8 +14,8 @@ I do all kinds of stuff that has something to do with programming.
  
 </details>
 
-[![Twitter: RealZebratic](https://img.shields.io/twitter/follow/zebraticyt?style=social)](https://twitter.com/RealZebratic)
-[![GitHub Zebratic](https://img.shields.io/github/followers/zebratic?label=follow&style=social)](https://github.com/zebratic)
+[![Twitter: RebraticX](https://img.shields.io/twitter/follow/rebraticx?style=social)](https://twitter.com/RebraticX)
+[![GitHub Rebratic](https://img.shields.io/github/followers/rebratic?label=follow&style=social)](https://github.com/rebratic)
 
 **Languages and Tools:**  
 
@@ -28,37 +28,37 @@ I do all kinds of stuff that has something to do with programming.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<a href="https://github.com/Zebratic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebratic&theme=dark&hide_langs_below=1" />
+<a href="https://github.com/Rebratic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebratic&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/Zebratic">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=zebratic&show_icons=true&theme=dark&line_height=27" alt="Zebratic's github stats"/>
+<a href="https://github.com/Rebratic">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rebratic&show_icons=true&theme=dark&line_height=27" alt="Rebratic's github stats"/>
 </a>
 
 <img align="center" src="snake.svg" />
 
-<a href="https://github.com/Zebratic/UE4Injector">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=UE4Injector&theme=dark" />
+<a href="https://github.com/Rebratic/UE4Injector">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebratic&repo=UE4Injector&theme=dark" />
 </a>
 
-<a href="https://github.com/Zebratic/C0bW3b">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=C0bW3b&theme=dark" />
+<a href="https://github.com/Rebratic/C0bW3b">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebratic&repo=C0bW3b&theme=dark" />
 </a>
 
-<a href="https://github.com/Zebratic/CSharpGUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=CSharpGUI&theme=dark" />
+<a href="https://github.com/Rebratic/CSharpGUI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebratic&repo=CSharpGUI&theme=dark" />
 </a>
 
-<a href="https://github.com/Zebratic/GHook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=GHook&theme=dark" />
+<a href="https://github.com/Rebratic/GHook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebratic&repo=GHook&theme=dark" />
 </a>
 
-<a href="https://github.com/Zebratic/DuckScript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=DuckScript&theme=dark" />
+<a href="https://github.com/Rebratic/DuckScript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebratic&repo=DuckScript&theme=dark" />
 </a>
 
-<a href="https://github.com/Zebratic/AppOnHijacker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=AppOnHijacker&theme=dark" />
+<a href="https://github.com/Rebratic/AppOnHijacker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebratic&repo=AppOnHijacker&theme=dark" />
 </a>
 
 <div align="center">

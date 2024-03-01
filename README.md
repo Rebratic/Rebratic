@@ -3,14 +3,10 @@ I do all kinds of stuff that has something to do with programming.
 
 <img src="https://discord.c99.nl/widget/theme-3/1212840512328044674.png">
 
-- 🔭 I’m currently working at an Enterprise level, at a private company as a Full-Stack Developer, which pays for my food.
-- ⚡ Fun Fact: I mainly develop my projects in C#, but chooses to work in C/C++ if neccisary. (Memory Management W/R)
-- 😱 Another Fun Fact: I have 100+ repositories including my private ones. So yes, most of my source code is private. 😎
 <details>
   <summary> - 📫 My Contacts:</summary>
-  <a href="https://twitter.com/zebraticyt">Twitter</a><br>
-  <a href="https://www.youtube.com/channel/UCTWn9Yj4u_h31irL_Xs_sEg">Youtube</a><br>
-  <a href="https://discord.com/users/811372110157053953">Discord</a><br>
+  <a href="https://twitter.com/rebraticx">Twitter</a><br>
+  <a href="https://discord.com/users/1212840512328044674">Discord</a><br>
  
 </details>
 
